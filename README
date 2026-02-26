@@ -6,7 +6,7 @@ A voice-controlled AI assistant built using Python that can recognize speech com
 
 ##  Features
 
--  Wake word detection ("Jarvis")
+-  Wake word detection ("Joy")
 -  Open websites (Google, YouTube, LinkedIn, GitHub)
 -  Play songs from a predefined music list
 -  Text-to-Speech response system
@@ -22,4 +22,39 @@ A voice-controlled AI assistant built using Python that can recognize speech com
 - PyAudio
 - Webbrowser Module
 
+ 
 
+### Installation & Setup
+
+1. Clone the repository ```bash
+git clone https://github.com/yuvraj-singh-027/python-voice-assistant-ai.git
+cd python-voice-assistant-ai
+
+2. Install dependencies
+pip install -r requirements.txt
+
+3. Run the project
+python main.py
+
+
+
+## How It Works
+
+The assistant continuously listens for the wake word "Jarvis".
+Once activated, it listens for the next command.
+The command is processed and executed.
+
+
+
+## Future Improvements
+
+Add ChatGPT integration
+Add GUI interface
+Add system control commands
+Improve noise handling
+
+
+👨‍💻 Author
+Yuvraj Singh
+B.Tech CSE (AI & ML)
+Aspiring AI Engineer
