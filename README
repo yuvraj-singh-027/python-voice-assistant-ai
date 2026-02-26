@@ -1,0 +1,25 @@
+# 🎙 Python Voice Assistant AI
+
+A voice-controlled AI assistant built using Python that can recognize speech commands and perform tasks like opening websites and playing music.
+
+---
+
+##  Features
+
+-  Wake word detection ("Jarvis")
+-  Open websites (Google, YouTube, LinkedIn, GitHub)
+-  Play songs from a predefined music list
+-  Text-to-Speech response system
+-  Speech Recognition using Google API
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- SpeechRecognition
+- Pyttsx3 (Text-to-Speech Engine)
+- PyAudio
+- Webbrowser Module
+
+
